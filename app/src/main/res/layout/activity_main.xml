@@ -21,7 +21,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="100dp"
-            android:textSize="35dp"
+            android:textSize="36dp"
             android:textColor="#ffff"
             android:layout_below="@+id/result"
             android:id="@+id/txt1"/>
